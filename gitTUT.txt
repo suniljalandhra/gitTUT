@@ -1,2 +1,7 @@
 Git status :- to show the status of git repo.
 Git add :- to add repo to staging area.
+"Completed Chapter 1"
+Git commit -m "message for commit"
+Git log :- status of git file
+"After adding two more file "
+Git add . := to add all the in directory to the staging area 
