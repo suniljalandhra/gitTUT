@@ -1,0 +1,2 @@
+Git status :- to show the status of git repo.
+Git add :- to add repo to staging area.
