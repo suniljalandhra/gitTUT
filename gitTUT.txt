@@ -5,3 +5,6 @@ Git commit -m "message for commit"
 Git log :- status of git file
 "After adding two more file "
 Git add . := to add all the in directory to the staging area 
+"Committed at this stage to "two new file is added to directory" "
+Git checkout <filename> :- to go back to the perilous version("version control")
+Git diff <filename> :- to check the difference between the old file (just after last commit ) and new file
