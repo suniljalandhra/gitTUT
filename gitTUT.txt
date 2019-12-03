@@ -8,3 +8,8 @@ Git add . := to add all the in directory to the staging area
 "Committed at this stage to "two new file is added to directory" "
 Git checkout <filename> :- to go back to the perilous version("version control")
 Git diff <filename> :- to check the difference between the old file (just after last commit ) and new file
+
+
+"Time to know how to make remote repository"
+Git remote add origin <url>:- for adding remote host 
+Git push -u origin master :- push file master branch 
